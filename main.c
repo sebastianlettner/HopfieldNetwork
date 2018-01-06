@@ -1,4 +1,4 @@
-#include "HW3T2/HopfieldNewtork.h"
+#include "HopfieldNewtork.h"
 
 
 int pattern1[9] = {-1,-1,-1,-1,1,-1,-1,-1,-1};
