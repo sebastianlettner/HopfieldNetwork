@@ -13,8 +13,8 @@
 
 
 #define MAX_INPUT 10
-#define IMAGE_X 20
-#define IMAGE_Y 10
+#define IMAGE_X 20 //Size of the image in x (width)
+#define IMAGE_Y 10 //Size of image in y (height)
 #define INPUT_SIZE IMAGE_X*IMAGE_Y
 
 
